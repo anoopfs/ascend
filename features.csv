@@ -1,0 +1,106 @@
+feature_category,feature_name
+keywords__appeal,Appeal
+keywords__appeal,Complaint
+keywords__appeal,Dispute
+keywords__appeal,Grievance
+keywords__appeal,Apelaciones
+keywords__appeal,Apelacion
+keywords__appeal,Medical Necessity
+keywords__appeal,Medically Necessary
+keywords__appeal,Denied
+keywords__appeal,Failure
+keywords__appeal,Auth
+keywords__appeal,Authorization
+keywords__exclusion,Timely Filing
+keywords__exclusion,Corrected Claims
+keywords__exclusion,943
+keywords__exclusion,39
+keywords__exclusion,UP
+keywords__exclusion,3D
+keywords__exclusion,DK
+keywords__exclusion,SF
+keywords__form_name,Request for Reconsideration
+keywords__form_name,Correspondence
+keywords__form_name,Provide Remittance Advice
+keywords__form_name,Electronic Remmitance Advice
+keywords__form_name,Claim Adjustment Form
+keywords__form_name,Appeal Request Form
+keywords__form_name,Bad Debt Form
+keywords__form_name,Sentback Letter from Provider
+keywords__form_name,UHC Online Screenshot
+keywords__form_name,Specific Appeal Request form
+keywords__form_name,HIPA Claim
+keywords__form_name,Prior Authorization Request
+keywords__form_name,UHC EOB
+keywords__form_name,15 Day Redmit Letter
+keywords__form_name,DL106
+keywords__urgent,Urgent
+keywords__urgent,Expedite
+keywords__urgent,Expedited
+keywords__urgent,Fast
+keywords__urgent,Life Threatening
+keywords__urgent,ASAP
+keywords__urgent,as soon as possible
+keywords__urgent,STAT
+keywords__urgent,Rush
+keywords__urgent,Desperate
+keywords__urgent,Survival Dependent upon
+keywords__urgent,Acute Inpatient Rehab
+keywords__urgent,Request for Redetermination of Medicare Prescription
+keywords__urgent,Drug Denial
+keywords__urgent,AIDS
+keywords__urgent,HIV
+keywords__urgent,Agonizing pain
+keywords__urgent,Angio
+keywords__urgent,Angiogram
+keywords__urgent,Atrial Fibrillation
+keywords__urgent,Cancer
+keywords__urgent,Chemo
+keywords__urgent,Chemotherapy
+keywords__urgent,Chronic pain
+keywords__urgent,COPD
+keywords__urgent,Coronary
+keywords__urgent,Detrimental to Health
+keywords__urgent,Excruciating pain
+keywords__urgent,Heart Attack
+keywords__urgent,Hodgkin
+keywords__urgent,Lymphoma
+keywords__urgent,Immediate
+keywords__urgent,Leukemia
+keywords__urgent,Long term care facility
+keywords__urgent,Lots of pain
+keywords__urgent,Lymphoblastic
+keywords__urgent,Malignant
+keywords__urgent,Melanoma
+keywords__urgent,Mets
+keywords__urgent,Metastases
+keywords__urgent,Metastasis
+keywords__urgent,Metastatic
+keywords__urgent,Mesothelioma
+keywords__urgent,Multiple Myeloma
+keywords__urgent,Neuroblastoma
+keywords__urgent,Qucik
+keywords__urgent,Rehab
+keywords__urgent,Rehabilitation
+keywords__urgent,Severe Pain
+keywords__urgent,Skilled Nursing
+keywords__urgent,SNF
+keywords__urgent,Skilled Services
+keywords__urgent,Spinal Bone Growth Stimulators
+keywords__urgent,Suicide
+keywords__urgent,Thymoma
+keywords__urgent,Transplants
+metadata__lob,EI
+metadata__lob,MR
+metadata__lob,CS
+metadata__lob,Explanatation of Benefits (EOB)
+metadata__lob,Provider Remmitance Advice (PRA)
+metadata__lob,Electronic Remmitance Advice (ERA)
+metadata__output_platform,UNET
+metadata__output_platform,COSMOS
+metadata__output_platform,MEDICA
+metadata__output_platform,Others
+metadata__pobox,POBOX NO 30559
+metadata__policy_number,Any Policy Number
+values__claim_number,Claim Number (Digits < 15)
+values__paid_amount,Paid Amount > 0.00
